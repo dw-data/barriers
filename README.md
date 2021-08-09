@@ -1,8 +1,8 @@
 # Migration and border walls
 
-Idea: Rodion Ebbighausen
+Idea: [Rodion Ebbighausen](https://twitter.com/R_Ebbighausen)
 
-Research, Data analysis, Writing, Visualizations: Gianna-Carina Gruen
+Research, Data analysis, Writing, Visualizations: [Gianna-Carina Gruen](https://twitter.com/giannagruen)
 
 Editing: Sonya Diehn, Milan Gagnon
 
@@ -17,9 +17,9 @@ We compiled our dataset cross-referencing four different data sources:
 
 1. Élisabeth Vallet, Josselyn Guillarmou, and Zoé Barry, Raoul-Dandurand Chair, University of Quebec in Montreal (2014), as shown in [The Economist](http://infographics.economist.com/2015/fences/)
 
-2. 2020 [report "A walled world"](https://www.tni.org/files/publication-downloads/informe46_walledwolrd_centredelas_tni_stopwapenhandel_stopthewall_eng_def.pdf) headed by the Centre Dèlas d'Estudis per la Pau (page 14 ff.)
+2. Centre Dèlas d'Estudis per la Pau (2020): "A walled world" (page 14 ff.) [report as pdf](https://www.tni.org/files/publication-downloads/informe46_walledwolrd_centredelas_tni_stopwapenhandel_stopthewall_eng_def.pdf) 
 
-3. Vernon & Zimmermann (2019): Walls and Fences: A Journey Through History and Economics[pdf](http://www.klausfzimmermann.de/wp-content/uploads/2021/01/2020-200721-Walls-Vernon-Zimmermann-PrepublicationFinal.pdf)
+3. Vernon & Zimmermann (2019): Walls and Fences: A Journey Through History and Economics [pdf](http://www.klausfzimmermann.de/wp-content/uploads/2021/01/2020-200721-Walls-Vernon-Zimmermann-PrepublicationFinal.pdf)
 
 4. Wikipedia article with references on Border barriers, [retrieved on August 4, 2021](https://en.wikipedia.org/wiki/Border_barrier)
 
@@ -41,6 +41,7 @@ If construction of a wall has started but since stopped (eg due to a lack of fun
 We excluded barriers that were built to prevent animals from migrating and spreading animal diseases (eg Denmark - Germany, Poland - Ukraine).
 
 Although information on a barrier was announced/construction was started/completed was included in some of our initial datasets, we excluded this information from our compilation since we did not double-check whether these dates were correct. We did however use this information in the verification process to figure out if two sources were referring to the same barrier, as some countries have multiple entries for borders on the same barrier.
+
 
 ## Migration data
 
