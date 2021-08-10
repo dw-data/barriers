@@ -2,7 +2,7 @@
 
 Idea: [Rodion Ebbighausen](https://twitter.com/R_Ebbighausen)
 
-Research, Data analysis, Writing, Visualizations: [Gianna-Carina Gruen](https://twitter.com/giannagruen)
+Research, Data analysis, Writing, Visualizations: [Gianna-Carina Grün](https://twitter.com/giannagruen)
 
 Editing: Sonya Diehn, Milan Gagnon
 
@@ -13,7 +13,7 @@ You can read the full story [here]().
 
 ## Border walls and fences
 
-We compiled our dataset cross-referencing four different data sources:
+We compiled our [dataset](https://docs.google.com/spreadsheets/d/1CTzHbi_lkfB29Aae1dw-3xmLCpjphHREJpB-dJm67-k/edit?usp=sharing) cross-referencing four different data sources:
 
 1. Élisabeth Vallet, Josselyn Guillarmou, and Zoé Barry, Raoul-Dandurand Chair, University of Quebec in Montreal (2014), as shown in [The Economist](http://infographics.economist.com/2015/fences/)
 
@@ -32,7 +32,7 @@ If you spot a mistake in our dataset, please don't hesitate to reach out to data
 
 ### Methodological choices
 
-We included barriers both partial ones as well as those along an entire border. If two neighboring countries both built barriers towards each other, they are listed and counted as individual barriers in our dataset, but are only marked with one instead of two lines on the [map](). 
+We included barriers both partial ones as well as those along an entire border. If two neighboring countries both built barriers towards each other, they are listed and counted as individual barriers in our dataset, but are only marked with one instead of two lines on the [map](). If there were multiple entries on the same border with distinctive different construction years, those were treated as two separate barriers being built rather than the same.
 
 Note that the existence of a border barrier does not mean all movement across a border is impossible.
 
@@ -43,8 +43,9 @@ We excluded barriers that were built to prevent animals from migrating and sprea
 Although information on a barrier was announced/construction was started/completed was included in some of our initial datasets, we excluded this information from our compilation since we did not double-check whether these dates were correct. We did however use this information in the verification process to figure out if two sources were referring to the same barrier, as some countries have multiple entries for borders on the same barrier.
 
 
+
 ## Migration data
 
 Data on refugee populations in different regions is based on the [UN International migrant stock 2020 dataset, table 6](https://www.un.org/development/desa/pd/content/international-migrant-stock), the documentation for this dataset can be found [here](https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2020_international_migrant_stock_documentation.pdf). 
 
-Additional information on migration data and trends was taken from the UNHCR report ["Global Trends: Forced displacement in 2019"](https://www.unhcr.org/be/wp-content/uploads/sites/46/2020/07/Global-Trends-Report-2019.pdf)
+Additional information on migration data and trends was taken from the UNHCR report ["Global Trends: Forced displacement in 2019"](https://www.unhcr.org/be/wp-content/uploads/sites/46/2020/07/Global-Trends-Report-2019.pdf).
