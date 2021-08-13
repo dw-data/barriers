@@ -4,7 +4,7 @@ Idea: [Rodion Ebbighausen](https://twitter.com/R_Ebbighausen)
 
 Research, Data analysis, Writing, Visualizations: [Gianna-Carina Grün](https://twitter.com/giannagruen)
 
-Editing: Sonya Diehn, Milan Gagnon
+Editing: Sonya Diehn
 
 You can read the full story [here]().
 
@@ -19,7 +19,7 @@ We compiled our [dataset](https://docs.google.com/spreadsheets/d/1CTzHbi_lkfB29A
 
 2. Centre Dèlas d'Estudis per la Pau (2020): "A walled world" (page 14 ff.) [report as pdf](https://www.tni.org/files/publication-downloads/informe46_walledwolrd_centredelas_tni_stopwapenhandel_stopthewall_eng_def.pdf) 
 
-3. Vernon & Zimmermann (2019): Walls and Fences: A Journey Through History and Economics [pdf](http://www.klausfzimmermann.de/wp-content/uploads/2021/01/2020-200721-Walls-Vernon-Zimmermann-PrepublicationFinal.pdf)
+3. Vernon & Zimmermann (2021): Walls and Fences: A Journey Through History and Economics [pdf](http://www.klausfzimmermann.de/wp-content/uploads/2021/01/2021-Walls-Fences-VVKFZ-Published.pdf)
 
 4. Wikipedia article with references on Border barriers, [retrieved on August 4, 2021](https://en.wikipedia.org/wiki/Border_barrier)
 
