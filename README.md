@@ -32,7 +32,7 @@ If you spot a mistake in our dataset, please don't hesitate to reach out to data
 
 ### Methodological choices
 
-We included barriers both partial ones as well as those along an entire border. If two neighboring countries both built barriers towards each other, they are listed and counted as individual barriers in our dataset, but are only marked with one instead of two lines on the [map](). If there were multiple entries on the same border with distinctive different construction years, those were treated as two separate barriers being built rather than the same.
+We included barriers both partial ones as well as those along an entire border. If two neighboring countries both built barriers towards each other, they are listed and counted as individual barriers in our dataset, but are only marked with one instead of two lines on the [map](https://static.dw.com/image/58848715_403.png). If there were multiple entries on the same border with distinctive different construction years, those were treated as two separate barriers being built rather than the same.
 
 Note that the existence of a border barrier does not mean all movement across a border is impossible.
 
