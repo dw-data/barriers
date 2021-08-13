@@ -50,4 +50,4 @@ Data on refugee populations in different regions is based on the [UN Internation
 
 Additional information on migration data and trends was taken from the UNHCR report ["Global Trends: Forced displacement in 2019"](https://www.unhcr.org/be/wp-content/uploads/sites/46/2020/07/Global-Trends-Report-2019.pdf).
 
-Our [dataset copy](Migration_data.xslx) includes two additional tabs, compared to the original file - "DW - Source" documents where the file was gathered from, "DW - Analysis" includes the calculations of change rates over time and rankings used in the article.
+Our [dataset copy](https://github.com/dw-data/barriers/blob/main/Migration_Data.xlsx) includes two additional tabs, compared to the original file - "DW - Source" documents where the file was gathered from, "DW - Analysis" includes the calculations of change rates over time and rankings used in the article.
