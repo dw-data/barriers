@@ -49,3 +49,5 @@ Although information on a barrier was announced/construction was started/complet
 Data on refugee populations in different regions is based on the [UN International migrant stock 2020 dataset, table 6](https://www.un.org/development/desa/pd/content/international-migrant-stock), the documentation for this dataset can be found [here](https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2020_international_migrant_stock_documentation.pdf). 
 
 Additional information on migration data and trends was taken from the UNHCR report ["Global Trends: Forced displacement in 2019"](https://www.unhcr.org/be/wp-content/uploads/sites/46/2020/07/Global-Trends-Report-2019.pdf).
+
+Our [dataset copy](Migration_data.xslx) includes two additional tabs, compared to the original file - "DW - Source" documents where the file was gathered from, "DW - Analysis" includes the calculations of change rates over time and rankings used in the article.
