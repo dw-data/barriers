@@ -4,7 +4,7 @@ Idea: [Rodion Ebbighausen](https://twitter.com/R_Ebbighausen)
 
 Research, Data analysis, Writing, Visualizations: [Gianna-Carina Grün](https://twitter.com/giannagruen)
 
-Editing: [Sonya Diehn](ttps://twitter.com/SonyaDiehn) 
+Editing: [Sonya Diehn](https://twitter.com/SonyaDiehn)
 
 You can read the full story [here](https://dw.com/a-58848161).
 
