@@ -4,9 +4,9 @@ Idea: [Rodion Ebbighausen](https://twitter.com/R_Ebbighausen)
 
 Research, Data analysis, Writing, Visualizations: [Gianna-Carina Grün](https://twitter.com/giannagruen)
 
-Editing: Sonya Diehn
+Editing: [Sonya Diehn](ttps://twitter.com/SonyaDiehn)
 
-You can read the full story [here]().
+You can read the full story [here](https://dw.com/a-58848161).
 
 
 # Data Sources
